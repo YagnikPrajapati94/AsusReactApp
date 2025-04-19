@@ -1,0 +1,191 @@
+{
+  "user": [
+    {
+      "id": "4cca",
+      "username": "jay",
+      "email": "jp0760496@gmail.com",
+      "password": "1234"
+    },
+    {
+      "id": "221f",
+      "username": "yagnik",
+      "email": "jil016071@gmail.com",
+      "password": "12"
+    },
+    {
+      "id": "b2c3",
+      "username": "harsh",
+      "email": "harsh@gmail.com",
+      "password": "1234"
+    }
+  ],
+  "admin": [
+    {
+      "admin": "admin",
+      "password": "1234",
+      "id": "b2c6"
+    }
+  ],
+  "product": [
+    {
+      "id": "c6bc",
+      "modal": "Asus Zenbook 15",
+      "laptoptype": "Zenbook",
+      "url": "https://in.store.asus.com/media/catalog/product/1/_/1._main_-_ux3405ca-pz162ws.jpg",
+      "mrp": "112000",
+      "price": "80000",
+      "processor": "i7",
+      "ramsize": "16",
+      "ramtype": "DDR5",
+      "storagesize": "512",
+      "storagetype": "SSD",
+      "graphic": "rtx 3050",
+      "windows": "Windows 11"
+    },
+    {
+      "modal": "Chromebook",
+      "laptoptype": "Chromebook",
+      "url": "https://in.store.asus.com/media/catalog/product/c/x/cx1500cka_trnsprnt_slvr_-_2025_1a__3.png",
+      "mrp": "35000",
+      "price": "24999",
+      "processor": "intel celeron",
+      "ramsize": "8",
+      "ramtype": "DDR4",
+      "storagesize": "512",
+      "storagetype": "HDD",
+      "graphic": "intel uhd ",
+      "windows": "Windows 10",
+      "id": "c945"
+    },
+    {
+      "id": "de3a",
+      "modal": "Asus zenbook",
+      "laptoptype": "Zenbook",
+      "url": "https://in.store.asus.com/media/catalog/product/x/1/x1504va_cool_silver_nonfngrprnt_bcklt_kbd_1_.jpg",
+      "mrp": "50000",
+      "price": "30000",
+      "processor": "i7",
+      "ramsize": "16",
+      "ramtype": "DDR5",
+      "storagesize": "512",
+      "storagetype": "SSD",
+      "graphic": "intel",
+      "windows": "Windows 11"
+    }
+  ],
+  "cart": [
+    {
+      "id": "de3a",
+      "modal": "Asus zenbook",
+      "laptoptype": "Zenbook",
+      "url": "https://in.store.asus.com/media/catalog/product/x/1/x1504va_cool_silver_nonfngrprnt_bcklt_kbd_1_.jpg",
+      "mrp": "50000",
+      "price": "30000",
+      "processor": "i7",
+      "ramsize": "16",
+      "ramtype": "DDR5",
+      "storagesize": "512",
+      "storagetype": "SSD",
+      "graphic": "intel",
+      "windows": "Windows 11",
+      "username": ""
+    }
+  ],
+  "confirmed": [
+    {
+      "id": "c6bc",
+      "modal": "Asus Zenbook 15",
+      "laptoptype": "Zenbook",
+      "url": "https://in.store.asus.com/media/catalog/product/1/_/1._main_-_ux3405ca-pz162ws.jpg",
+      "mrp": "112000",
+      "price": "80000",
+      "processor": "i7",
+      "ramsize": "16",
+      "ramtype": "DDR5",
+      "storagesize": "512",
+      "storagetype": "SSD",
+      "graphic": "rtx 3050",
+      "windows": "Windows 11",
+      "username": [
+        "yagnik"
+      ],
+      "payment_id": "pay_QK5XMJVoF5fF1S"
+    },
+    {
+      "id": "c945",
+      "modal": "Chromebook",
+      "laptoptype": "Chromebook",
+      "url": "https://in.store.asus.com/media/catalog/product/c/x/cx1500cka_trnsprnt_slvr_-_2025_1a__3.png",
+      "mrp": "35000",
+      "price": "24999",
+      "processor": "intel celeron",
+      "ramsize": "8",
+      "ramtype": "DDR4",
+      "storagesize": "512",
+      "storagetype": "HDD",
+      "graphic": "intel uhd ",
+      "windows": "Windows 10",
+      "username": [
+        "yagnik"
+      ],
+      "payment_id": "pay_QK5ZMwK5dtYtH4"
+    },
+    {
+      "id": "b589",
+      "modal": "Asus Vivobook 15",
+      "laptoptype": "VivoBook",
+      "url": "https://in.store.asus.com/media/catalog/product/x/1/x1504va_cool_silver_nonfngrprnt_bcklt_kbd_1_.jpg",
+      "mrp": "54000",
+      "price": "34000",
+      "processor": "i3",
+      "ramsize": "16",
+      "ramtype": "DDR4",
+      "storagesize": "512",
+      "storagetype": "SSD",
+      "graphic": "intel uhd ",
+      "windows": "Windows 10",
+      "username": [
+        "yagnik"
+      ],
+      "payment_id": "pay_QKAoIH7RxnQJ62"
+    },
+    {
+      "id": "c945",
+      "modal": "Chromebook",
+      "laptoptype": "Chromebook",
+      "url": "https://in.store.asus.com/media/catalog/product/c/x/cx1500cka_trnsprnt_slvr_-_2025_1a__3.png",
+      "mrp": "35000",
+      "price": "24999",
+      "processor": "intel celeron",
+      "ramsize": "8",
+      "ramtype": "DDR4",
+      "storagesize": "512",
+      "storagetype": "HDD",
+      "graphic": "intel uhd ",
+      "windows": "Windows 10",
+      "username": [
+        "harsh"
+      ],
+      "payment_id": "pay_QKaCDlxMBT9WQz"
+    },
+    {
+      "id": "c945",
+      "modal": "Chromebook",
+      "laptoptype": "Chromebook",
+      "url": "https://in.store.asus.com/media/catalog/product/c/x/cx1500cka_trnsprnt_slvr_-_2025_1a__3.png",
+      "mrp": "35000",
+      "price": "24999",
+      "processor": "intel celeron",
+      "ramsize": "8",
+      "ramtype": "DDR4",
+      "storagesize": "512",
+      "storagetype": "HDD",
+      "graphic": "intel uhd ",
+      "windows": "Windows 10",
+      "username": [
+        "harsh"
+      ],
+      "payment_id": "pay_QKaDdICxBT80KF"
+    }
+  ]
+}

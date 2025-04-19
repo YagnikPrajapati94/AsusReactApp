@@ -1,0 +1,39 @@
+.budget a:hover img{
+    transform: scale(1.1);
+}
+.budget img{
+    transition: all 0.3s ease-in-out;
+    width: 90%;
+} 
+.footer-text:hover{
+    text-decoration: underline !important;
+}
+.offcanvas{
+    transition: all 0.5s ease-in-out !important;
+}
+form input,button{
+    padding: 10px 10px !important;
+}
+body{
+    background-color: rgb(248, 249, 250) !important
+}
+.active-link{
+    color: blue !important;
+    /* background-color: red !important; */
+}
+.add-product .form-control{
+    box-shadow: none !important;
+    border-radius: 15px !important;
+}
+
+
+@media (min-width:992px){
+    .admin-offcanvas{
+        width: 350px !important;
+        visibility: visible !important;
+        transform: none !important;
+    }
+    .admin-nav,.admin-main{
+        margin-left: 350px !important;
+    }
+}
